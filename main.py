@@ -1,1 +1,5 @@
-##WRITE YOUR CODE IN THIS FILE
+def HelloWorld():
+    return "Hello World!"
+
+
+print (HelloWorld())
